@@ -1,2 +1,4 @@
 new file is created 
 using cat comand
+now i update the code
+
